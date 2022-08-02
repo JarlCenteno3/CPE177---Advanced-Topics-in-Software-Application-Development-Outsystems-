@@ -11,3 +11,4 @@ CPE176 - Mobile App Development (Outsystems)
   - [x] Display Movie Information
   - [x] Show Trailer
   - [x] Show Cast
+- [x] Create Reviews
